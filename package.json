@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-generator": "^4.16.0"
+  },
+  "name": "hangman_game",
+  "version": "1",
+  "main": "index.html",
+  "repository": "https://github.com/chad-f-dalrymple/hangman-game.git",
+  "author": "Chad Dalrymple",
+  "license": "MIT"
+}

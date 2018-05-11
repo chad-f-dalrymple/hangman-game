@@ -1,0 +1,17 @@
+.html {
+  background-color: bisque;
+}
+
+
+.number-of-guesses {
+  font-size: 2em;
+  text-align: center;
+}
+
+.hangman-image {
+  margin: 2rem auto 2rem auto;
+}
+
+.text-input {
+  margin: 2rem auto 2rem auto;
+}
